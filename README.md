@@ -1,1 +1,1 @@
-# cat-diet-tracker
+# CatDietTracker
